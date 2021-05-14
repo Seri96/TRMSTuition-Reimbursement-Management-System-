@@ -6,7 +6,7 @@ The Tuition Reimbursement System, TRMS, allows users to submit reimbursements fo
 
 ## Technologies Used
 
-Back-end
+Back-End
 
 - Python
 - Flask
