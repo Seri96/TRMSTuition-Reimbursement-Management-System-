@@ -11,16 +11,16 @@ Back-End
 - Python
 - Flask
 - Psycopg2
+- PostgreSQL, RDS, AWS
 - Python Unit Testing
 
 Front-End
 
 - HTML 5, JavaScript ES6, CSS3, Bootstrap 4
-- PostgreSQL, RDS, AWS
 - Selenium, Cucumber
 
 ## Features
 
 - User's of different roles can log in
 - User's can submit reimbursement requests for courses they would like to take
-- Leadership roles can accept, deny or ask for more information for those requests
+- Leadership roles can accept or deny those requests
